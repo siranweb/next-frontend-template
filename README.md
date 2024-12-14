@@ -1,3 +1,17 @@
+# Frontend NextJS шаблон
+
+Рассчитан на использование в связке с [бэкенд шаблоном](https://github.com/siranweb/nest-backend-template).
+
+## Todo
+- [ ] Подключить SCSS
+- [ ] Подключить prettier
+- [ ] Docker
+- [ ] Env
+  - [ ] Поддержка docker
+- [ ] Авторизация
+- [ ] Документация
+- [ ] Генерация API 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
