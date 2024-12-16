@@ -3,14 +3,14 @@
 Рассчитан на использование в связке с [бэкенд шаблоном](https://github.com/siranweb/nest-backend-template).
 
 ## Todo
-- [ ] Подключить SCSS
-- [ ] Подключить prettier
+- [x] Подключить SCSS
+- [x] Подключить prettier
 - [ ] Docker
 - [ ] Env
   - [ ] Поддержка docker
 - [ ] Авторизация
 - [ ] Документация
-- [ ] Генерация API 
+- [ ] Генерация API
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
