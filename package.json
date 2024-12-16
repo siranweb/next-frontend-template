@@ -9,7 +9,9 @@
     "lint": "next lint --fix"
   },
   "dependencies": {
+    "mobx-react-lite": "^4.1.0",
     "next": "15.1.0",
+    "openapi-fetch": "^0.13.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sass": "^1.83.0"
@@ -24,6 +26,7 @@
     "eslint-config-next": "15.1.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
+    "openapi-typescript": "^7.4.4",
     "prettier": "^3.4.2",
     "typescript": "^5"
   },
