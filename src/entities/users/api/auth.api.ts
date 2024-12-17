@@ -1,5 +1,5 @@
-import { apiClient } from '@/shared/api/client/api.client';
-import { TUserCredentials } from '@/shared/api/types/auth-api.types';
+import { apiClient } from '@/shared/lib/api-client/api.client';
+import { TUserCredentials } from '@/entities/users/types/auth-api.types';
 
 class AuthApi {
   public async register(params: TUserCredentials) {
